@@ -89,7 +89,7 @@ Creo firmemente que la disciplina es el pilar de todo lo que queremos lograr. Es
       </a>
     </span>
     <span style="margin-right: 10px;">
-      <a href="https://discord.gg/estiven5053" target="_blank" rel="noopener noreferrer">
+      <a href="https://discord.com/users/1015738626635747399" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="estiven5053" height="30" width="40">
       </a>
     </span>
