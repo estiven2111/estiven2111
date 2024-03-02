@@ -22,7 +22,7 @@ En este repositorio encontrarás una variedad de proyectos en los que él estado
 <h3 align="center" style = "font-weight: bold; font-size: 20px;">Proyectos Destacados</h3>
 <h4 align="center" style = "font-weight: bold; font-size: 15px;">A continuación, te menciono algunos de mis proyectos destacados:<h4>
 
-<ul align="center"  style = "text-align: left;">
+<ul align="left"  style = "text-align: left;">
 <li style="margin: 20px;" >
 Aplicación móvil conexion inalambrica PLC: Desarrollé una aplicación móvil utilizando Xamarin y C#, la cual se conecta a un PLC mediante protocolo TCP. Esta aplicación permite recibir notificaciones en tiempo real cuando el equipo presenta algún problema, además de ofrecer la posibilidad de controlar y manipular el equipo directamente desde el celular.
 </li style="margin: 20px;" >
@@ -48,7 +48,7 @@ node.js con express guardado de imagenes en el gcloud de google y varios framewo
 
 <h4 align="center" style = "font-weight: bold; font-size: 15px;">INFORMACIÓN<h4>
 
-<ul align="center"  style = "text-align: left;">
+<ul align="left"  style = "text-align: left;">
 
 <li style="margin: 20px;" >
 🔭 Actualmente estoy trabajando en: <a href="https://aeromaquinados.com/robots-industriales/" target="_blank">AEROMAQUINADOS - AEROBÓTICA</a>
