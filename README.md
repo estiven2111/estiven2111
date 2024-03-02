@@ -62,6 +62,9 @@ node.js con express guardado de imagenes en el gcloud de google y varios framewo
 <li style="margin: 20px;" >
 💬 Pregúntame sobre: <span  style = "font-weight: bold;">React, Vite, PHP, JavaScript, Node.js, Express, Bases Datos, Mas...</span>
 </li>
+<li style="margin: 20px;" >
+<a href="https://portafolio-estiven.web.app/"><span  style = "font-weight: bold;">🔎 Saber mas sobre Estiven Arboleda Martinez :</span></a>
+</li>
 </ul>
 </div>
 
@@ -74,7 +77,7 @@ Creo firmemente que la disciplina es el pilar de todo lo que queremos lograr. Es
 
 <div align="center">
   <h3 align="center"  style = "font-weight: bold; font-size: 20px;">CONTACTAME:</h3>
-  <p align="center">
+  <p align="center" style="margin: 20px;" >
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/estiven-arboleda-bb9aa61a4" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/estiven-arboleda-bb9aa61a4" height="30" width="40" />
     </a>
@@ -87,7 +90,11 @@ Creo firmemente que la disciplina es el pilar de todo lo que queremos lograr. Es
     <a href="https://mail.google.com/mail/?view=cm&to=estiven.a.martinez@gmail.com" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="30" width="40">
     </a>
+    <a href="https://mail.google.com/mail/?view=cm&to=estiven.a.martinez@gmail.com" target="_blank">
+      <img src="https://img.icons8.com/ios-filled/30/domain.png" alt="Browser" height="30" width="40">
+    </a>
   </p>
+  
 </div>
 
 <h3 align="left"  style = "font-weight: bold; font-size: 20px;">LENGUAJES Y HERRAMIENTAS:</h3>
