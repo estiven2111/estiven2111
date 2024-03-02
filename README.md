@@ -63,7 +63,7 @@ node.js con express guardado de imagenes en el gcloud de google y varios framewo
 💬 Pregúntame sobre: <span  style = "font-weight: bold;">React, Vite, PHP, JavaScript, Node.js, Express, Bases Datos, Mas...</span>
 </li>
 <li style="margin: 20px;" >
-<a href="https://portafolio-estiven.web.app/"><span  style = "font-weight: bold;">🔎 Saber mas sobre Estiven Arboleda Martinez :</span></a>
+<a href="https://portafolio-estiven.web.app/" target="_blank"><span  style = "font-weight: bold;">🔎 Saber mas sobre Estiven Arboleda Martinez :</span></a>
 </li>
 </ul>
 </div>
